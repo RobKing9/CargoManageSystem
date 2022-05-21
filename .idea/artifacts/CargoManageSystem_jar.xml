@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CargoManageSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CargoManageSystem_jar</output-path>
+    <root id="archive" name="CargoManageSystem.jar">
+      <element id="module-output" name="CargoManageSystem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/JDBC/mysql-connector-java-8.0.27.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
